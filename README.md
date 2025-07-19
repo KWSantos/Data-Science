@@ -1,2 +1,2 @@
 # Data-Science
-Repositório destinado a subir meus projetos de Ciência de Dados e Machine Learning. Esses projetos incluem extração, limpeza e análise de dados, aplicação de algoritmos clássicos de Machine Learning nesses dados a fim de extrair insights  valiosos sobre os padrões encontrados nos dados.
+Repositório dedicado a projetos de Ciência de Dados e Machine Learning. Meu foco abrange todo o ciclo de vida dos dados: desde a extração, tratamento e análise exploratória até a aplicação de algoritmos de Machine Learning para modelagem preditiva e extração de insights estratégicos.
